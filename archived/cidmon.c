@@ -1,6 +1,6 @@
 /*
  * modem caller ID monitoring
- * platform - Rasbian
+ * platform - Raspbian
  * c progrmming by Qien Huang 04-2016 Brooklyn, NY. 
  * Email: kevin11206@gmail.com
  * gcc callmon.c -o callmon -pthread `pkg-config --cflags --libs glib-2.0` `mysql_config --cflags --libs` 
