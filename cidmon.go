@@ -564,7 +564,7 @@ func callTcpSendThread(client TCPClient, bJson []byte) {
 	log.Println("TCP Sending to: ", client.Ip)
 	/*
 	* JSON sample:
-	* {"address":"","city":"","company_name":"","last_invoice_date":"","line":"1","name":"13475251918","nmbr":"13475251918","state":""}
+	* {"address":"","city":"","company_name":"","last_invoice_date":"","line":"1","name":"KEVIN HUANG","nmbr":"13470000000","state":""}
 	 */
 	conn, err := net.Dial("tcp", client.Ip+":"+TCP_CLIENT_PORT)
 	if err != nil {
