@@ -655,7 +655,6 @@ int main(int argc, char **argv)
 		exit(0);
 	}
 
-
 	// sleep(5);
 	 //    GList *lst = NULL;
 	 //    for (lst = client_addr; lst; lst = lst->next) {
