@@ -1,0 +1,37 @@
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\bin\Release\Newtonsoft.Json.dll
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\bin\Release\Newtonsoft.Json.xml
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\obj\Release\cider.MainForm.resources
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\obj\Release\cider.Properties.Resources.resources
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\obj\Release\cider.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\bin\Release\Caller ID Detecter.exe.config
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\bin\Release\Caller ID Detecter.exe
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\bin\Release\Caller ID Detecter.pdb
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\obj\Release\cider.AboutBox1.resources
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\obj\Release\Caller ID Detecter.exe
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\obj\Release\Caller ID Detecter.pdb
+D:\kevin\cider\cider\bin\Release\Caller ID Detecter.exe.config
+D:\kevin\cider\cider\bin\Release\Caller ID Detecter.exe
+D:\kevin\cider\cider\bin\Release\Caller ID Detecter.pdb
+D:\kevin\cider\cider\obj\Release\cider.AboutBox1.resources
+D:\kevin\cider\cider\obj\Release\cider.MainForm.resources
+D:\kevin\cider\cider\obj\Release\cider.Properties.Resources.resources
+D:\kevin\cider\cider\obj\Release\cider.csproj.GenerateResource.Cache
+D:\kevin\cider\cider\obj\Release\cider.csproj.CoreCompileInputs.cache
+D:\kevin\cider\cider\obj\Release\Caller ID Detecter.exe
+D:\kevin\cider\cider\obj\Release\Caller ID Detecter.pdb
+D:\github.com\cidmon\upload\client_cs\cider\cider\bin\Release\Caller ID Detecter.exe.config
+D:\github.com\cidmon\upload\client_cs\cider\cider\bin\Release\Caller ID Detecter.exe
+D:\github.com\cidmon\upload\client_cs\cider\cider\bin\Release\Caller ID Detecter.pdb
+D:\github.com\cidmon\upload\client_cs\cider\cider\bin\Release\Newtonsoft.Json.dll
+D:\github.com\cidmon\upload\client_cs\cider\cider\bin\Release\Newtonsoft.Json.pdb
+D:\github.com\cidmon\upload\client_cs\cider\cider\bin\Release\Newtonsoft.Json.xml
+D:\github.com\cidmon\upload\client_cs\cider\cider\obj\Release\cider.csprojAssemblyReference.cache
+D:\github.com\cidmon\upload\client_cs\cider\cider\obj\Release\cider.AboutBox1.resources
+D:\github.com\cidmon\upload\client_cs\cider\cider\obj\Release\cider.MainForm.resources
+D:\github.com\cidmon\upload\client_cs\cider\cider\obj\Release\cider.Properties.Resources.resources
+D:\github.com\cidmon\upload\client_cs\cider\cider\obj\Release\cider.csproj.GenerateResource.cache
+D:\github.com\cidmon\upload\client_cs\cider\cider\obj\Release\cider.csproj.CoreCompileInputs.cache
+D:\github.com\cidmon\upload\client_cs\cider\cider\obj\Release\cider.csproj.CopyComplete
+D:\github.com\cidmon\upload\client_cs\cider\cider\obj\Release\Caller ID Detecter.exe
+D:\github.com\cidmon\upload\client_cs\cider\cider\obj\Release\Caller ID Detecter.pdb

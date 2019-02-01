@@ -1,0 +1,50 @@
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\obj\Debug\cider.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\obj\Debug\cider.Properties.Resources.resources
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\obj\Debug\cider.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\obj\Debug\cider.MainForm.resources
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\obj\Debug\cider.AboutBox1.resources
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\bin\Debug\Caller ID Detecter.exe.config
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\bin\Debug\Caller ID Detecter.exe
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\bin\Debug\Caller ID Detecter.pdb
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\obj\Debug\Caller ID Detecter.exe
+C:\Users\Kevin\Desktop\cid_notifier\cider\cider\obj\Debug\Caller ID Detecter.pdb
+D:\8051MCU\My Projects\cid_notifier\cider\cider\bin\Debug\Caller ID Detecter.exe.config
+D:\8051MCU\My Projects\cid_notifier\cider\cider\bin\Debug\Caller ID Detecter.exe
+D:\8051MCU\My Projects\cid_notifier\cider\cider\bin\Debug\Caller ID Detecter.pdb
+D:\8051MCU\My Projects\cid_notifier\cider\cider\bin\Debug\Newtonsoft.Json.dll
+D:\8051MCU\My Projects\cid_notifier\cider\cider\bin\Debug\Newtonsoft.Json.pdb
+D:\8051MCU\My Projects\cid_notifier\cider\cider\bin\Debug\Newtonsoft.Json.xml
+D:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\cider.AboutBox1.resources
+D:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\cider.MainForm.resources
+D:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\cider.Properties.Resources.resources
+D:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\cider.csproj.GenerateResource.Cache
+D:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\Caller ID Detecter.exe
+D:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\Caller ID Detecter.pdb
+D:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\cider.csprojResolveAssemblyReference.cache
+Z:\8051MCU\My Projects\cid_notifier\cider\cider\bin\Debug\Caller ID Detecter.exe.config
+Z:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\Caller ID Detecter.exe
+Z:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\Caller ID Detecter.pdb
+Z:\8051MCU\My Projects\cid_notifier\cider\cider\bin\Debug\Caller ID Detecter.exe
+Z:\8051MCU\My Projects\cid_notifier\cider\cider\bin\Debug\Caller ID Detecter.pdb
+Z:\8051MCU\My Projects\cid_notifier\cider\cider\bin\Debug\Newtonsoft.Json.pdb
+Z:\8051MCU\My Projects\cid_notifier\cider\cider\bin\Debug\Newtonsoft.Json.xml
+Z:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\cider.csprojResolveAssemblyReference.cache
+Z:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\cider.AboutBox1.resources
+Z:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\cider.MainForm.resources
+Z:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\cider.Properties.Resources.resources
+Z:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\cider.csproj.GenerateResource.Cache
+D:\8051MCU\My Projects\cid_notifier\cider\cider\obj\Debug\cider.csproj.CoreCompileInputs.cache
+D:\kevin\cider\cider\bin\Debug\Caller ID Detecter.exe.config
+D:\kevin\cider\cider\bin\Debug\Caller ID Detecter.exe
+D:\kevin\cider\cider\bin\Debug\Caller ID Detecter.pdb
+D:\kevin\cider\cider\obj\Debug\cider.AboutBox1.resources
+D:\kevin\cider\cider\obj\Debug\cider.MainForm.resources
+D:\kevin\cider\cider\obj\Debug\cider.Properties.Resources.resources
+D:\kevin\cider\cider\obj\Debug\cider.csproj.GenerateResource.Cache
+D:\kevin\cider\cider\obj\Debug\Caller ID Detecter.exe
+D:\kevin\cider\cider\obj\Debug\Caller ID Detecter.pdb
+D:\kevin\cider\cider\obj\Debug\cider.csprojResolveAssemblyReference.cache
+D:\kevin\cider\cider\bin\Debug\Newtonsoft.Json.dll

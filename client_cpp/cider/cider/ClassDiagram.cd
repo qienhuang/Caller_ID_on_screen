@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CciderDlg">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="CciderDlg::__unnamed_enum_026c_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ciderDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>cBCBIIGBAoECCMAIQJQgFDQBxaAQggYFBAAUADIVEGQ=</HashCode>
+      <FileName>ciderDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
