@@ -75,12 +75,6 @@ Plan fo improvement:
 
 Others:
 
-  - [archived/cidmon.c](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/archived/cidmon.c) 
-  
-  The previous version of server app that written in c. Implemented serial port communication, multi-threads, tcp/udp socket, MySQL database Read/Write...
-  - [archived/cidmon.py](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/archived/cidmon.py)
-  
-  The previous version of server app that written in Python.
-  - [img/diagram.ai](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/img/diagram.ai)  
-  
-  The vector source file of diagram drawing(isometric view)
+  - [archived/cidmon.c](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/archived/cidmon.c)    The previous version of server app that written in c. Implemented serial port communication, multi-threads, tcp/udp socket, MySQL database Read/Write...
+  - [archived/cidmon.py](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/archived/cidmon.py)  The previous version of server app that written in Python.
+  - [img/diagram.ai](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/img/diagram.ai)    The vector source file of diagram drawing(isometric view)
