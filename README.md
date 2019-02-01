@@ -1,6 +1,7 @@
 # Caller ID On Screen
 
 ## An application for telephone caller ID display on screen. Implemented in Raspberry Pi, a low-cost and low-power single board computer.
+
 This application was created for my customer support team to response quickly and efficiently for incoming service calls.
 
 ![diagram](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/img/diagram.png)
@@ -10,6 +11,7 @@ Components:
 [cidmon.go](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/cidmon.go)  # The server App runs on Raspberry Pi, coding in Golang
 
 Features:
+
   - Supports multiple phone lines
   - Mornitoring USB modem hot plug/unplug for phone line adding or removing
   - Matching phone number from accounting database, returns customer's address and last purchase date
@@ -23,13 +25,14 @@ Features:
   - Receives caller information and view call log
 
 The popup window on PC:
+
 ![main_form](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/img/main_form.png)
 
 The expanded window to view call logs:
 
 ![main_form_expanded](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/img/main_form_expanded.png)
 
-###Deployment:
+### Deployment:
 
 On raspberry Pi/Debian:
 
