@@ -15,9 +15,9 @@ package main
         |
   initializeMySQL()
   initializeSQLite()
-   		|
-		| ______________________________________________________________________________
-		|                                              |                                |
+   	|
+	| ______________________________________________________________________________
+	|                                              |                                |
         V                                              V                                V
   initializeModems():                        udpRegisterServerThread():       queryListenServerThread():
   enumerate serial port                                |                                |
