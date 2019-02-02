@@ -375,7 +375,6 @@ func initializeModems() {
 		time.Sleep(CHECK_MODEMS_INTERVAL * time.Second)
 
 	}
-
 }
 
 func callMonitorThread(modem Modem) {
