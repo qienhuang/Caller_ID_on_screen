@@ -24,7 +24,7 @@ Features:
   - No configure required, automatically register on server
   - Receives caller information and view call log
 
-The popup window on PC:
+The caller ID popup program on Windows PC:
 
 ![main_form](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/img/main_form.png)
 
