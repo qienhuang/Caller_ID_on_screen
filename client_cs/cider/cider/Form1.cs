@@ -55,7 +55,7 @@ namespace cider
 		public static int currentDisplayIndex = -1;  //Current displaying record
 		public static int currentRecordIndex = 0;
 		public static bool bIsFull = false; //cidrecords is full, then override
-		public static bool bIsExpended = false;
+		public static bool bIsExpanded = false;
 		public static bool bUdpNotRespon = false;
 		public static string serverIP = "";
 
@@ -744,12 +744,12 @@ namespace cider
 
 		private void btnLog_Click(object sender, EventArgs e)
 		{
-			if (bIsExpended == false)
+			if (bIsExpanded == false)
 			{
 				this.Height += 400;
 				this.Width += 200;
 				btnLog.Text = "Close &Log <<<";
-				bIsExpended = true;
+				bIsExpanded = true;
 
 				Thread tcpQueryThread = new Thread(() => TCPQueryThread(GET_CALL_LOG));
 				tcpQueryThread.IsBackground = true;
@@ -761,7 +761,7 @@ namespace cider
 				this.Height -= 400;
 				this.Width -= 200;
 				btnLog.Text = "Show &Log >>>";
-				bIsExpended = false;
+				bIsExpanded = false;
 			}
 
 
