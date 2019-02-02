@@ -18,7 +18,7 @@ Features:
   
 ![server_running](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/img/server_running.png)
 
-Cleint     # The client program runs on Windows PC, implemented on [Visual C++](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/client_cpp/cider/cider/ciderDlg.cpp) and [C#/Winforms](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/client_cs/cider/cider/Form1.cs)
+Client     # The client program runs on Windows PC, implemented on [Visual C++](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/client_cpp/cider/cider/ciderDlg.cpp) and [C#/Winforms](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/client_cs/cider/cider/Form1.cs)
 
 Features:
   - No configure required, automatically register on server
