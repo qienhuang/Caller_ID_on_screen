@@ -36,7 +36,7 @@ The expanded window to view call logs:
 
 On raspberry Pi/Debian:
 
-#If you don't have mysql installed:
+#If you haven't the mysql installed:
 ```
 sudo apt install mysql-server mysql-client
 ```
@@ -67,8 +67,27 @@ go build
 ```
 sudo ./cidmon
 ```
+
+#Or if you like to use the pre-built app
+```
+cd /home/pi/Downloads
+wget https://github.com/qienhuang/Caller_ID_on_screen/raw/master/bin/cidmon
+```
+
+#Run App as a service:
+```
+sudo mkdir -p /usr/local/cidmon && cp cidmon /usr/local/cidmon
+sudo cp cidmon.service /etc/systemd/system
+sudo systemctl enable cidmon.service
+sudo systemctl start cidmon.service
+```
+
 On Windows stations:
+
+Download the pre-built client from [here](https://github.com/qienhuang/Caller_ID_on_screen/raw/master/bin/cider.exe)
+
 Create a shortcut for cider.exe and add it to startup folder
+
 
 Plan fo improvement:
  - MQTT with TLS secured messaging
