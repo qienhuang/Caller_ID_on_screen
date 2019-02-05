@@ -1,0 +1,14 @@
+[Unit]
+Description=cidmon service
+After=network.target
+
+
+[Service]
+ExecStart=/usr/local/cidmon/cidmon
+WorkingDirectory=/usr/local/cidmon
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
+
