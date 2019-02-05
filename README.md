@@ -84,10 +84,7 @@ sudo systemctl start cidmon.service
 
 On Windows stations:
 
-Download the pre-built client from [here](https://github.com/qienhuang/Caller_ID_on_screen/raw/master/bin/cider.exe)
-
-Create a shortcut for cider.exe and add it to startup folder
-
+Download the pre-built client from [here](https://github.com/qienhuang/Caller_ID_on_screen/raw/master/bin/cider.exe), then create a shortcut for cider.exe and add it to startup folder.
 
 Plan fo improvement:
  - MQTT with TLS secured messaging
