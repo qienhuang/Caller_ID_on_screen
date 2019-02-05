@@ -72,6 +72,7 @@ sudo ./cidmon
 ```
 cd /home/pi/Downloads
 wget https://github.com/qienhuang/Caller_ID_on_screen/raw/master/bin/cidmon
+wget https://github.com/qienhuang/Caller_ID_on_screen/raw/master/cidmon.service
 ```
 
 #Run App as a service:
