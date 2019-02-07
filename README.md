@@ -68,7 +68,7 @@ go build
 sudo ./cidmon
 ```
 
-###Or if you like to use the pre-built app
+### Or if you like to use the pre-built app
 ```
 cd /home/pi/Downloads
 wget https://github.com/qienhuang/Caller_ID_on_screen/raw/master/bin/cidmon
