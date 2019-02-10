@@ -34,7 +34,7 @@ The expanded window to view call logs:
 
 The call log page from the company web portal(Java/Spring/Tomcat):
 
-![call log page](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/img/web_calllog.png)
+![call log page](https://raw.githubusercontent.com/qienhuang/Caller_ID_on_screen/master/img/web_calllog.png)
 
 ### Deployment:
 
