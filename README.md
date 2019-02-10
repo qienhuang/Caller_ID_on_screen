@@ -36,7 +36,7 @@ The call log page from the company web portal(Java/Spring/Tomcat):
 
 ![call log page](https://raw.githubusercontent.com/qienhuang/Caller_ID_on_screen/master/img/web_calllog.png)
 
-### Deployment:
+## Deployment:
 
 On raspberry Pi/Debian:
 
@@ -94,7 +94,7 @@ Download the pre-built client from [here](https://github.com/qienhuang/Caller_ID
 Plan for improvement:
  - MQTT with TLS secured messaging
 
-Others:
+### Others:
 
 - [archived/cidmon.c](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/archived/cidmon.c)  -The previous version of server app that written in c. Implemented serial port communication, multi-threads, tcp/udp socket, MySQL database Read/Write...
 - [archived/cidmon.py](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/archived/cidmon.py)  -The previous version of server app that written in Python.
