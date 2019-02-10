@@ -32,7 +32,7 @@ The expanded window to view call logs:
 
 ![main_form_expanded](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/img/main_form_expanded.png)
 
-The call log page from the company web portal:
+The call log page from the company web portal(Java/Spring/Tomcat):
 
 ![call log page](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/img/web_calllog.png)
 
