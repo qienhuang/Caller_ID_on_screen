@@ -26,11 +26,11 @@ Features:
 
 The caller ID popup program on Windows PC:
 
-![main_form](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/img/main_form.png)
+![main_form](https://raw.githubusercontent.com/qienhuang/Caller_ID_on_screen/master/img/main_form.png)
 
 The expanded window to view call logs:
 
-![main_form_expanded](https://github.com/qienhuang/Caller_ID_on_screen/blob/master/img/main_form_expanded.png)
+![main_form_expanded](https://raw.githubusercontent.com/qienhuang/Caller_ID_on_screen/master/img/main_form_expanded.png)
 
 The call log page from the company web portal(Java/Spring/Tomcat):
 
