@@ -1,2 +1,3 @@
 *.c linguist-language=go
 *.cpp linguist-language=go
+*.rb linguist-language=Java
