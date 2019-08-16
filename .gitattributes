@@ -1,3 +1,4 @@
 *.c linguist-language=go
 *.cpp linguist-language=go
-*.rb linguist-language=Java
+*.js linguist-language=go
+*.html linguist-language=go
