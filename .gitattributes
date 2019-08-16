@@ -1,4 +1,8 @@
 *.c linguist-language=go
-*.cpp linguist-language=go
+*.cpp linguist-detectabl=false
 *.js linguist-language=go
 *.html linguist-language=go
+*.go linguist-detectable=true
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
