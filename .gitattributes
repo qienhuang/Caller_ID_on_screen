@@ -1,4 +1,0 @@
-*.c linguist-language=go
-*.cpp linguist-language=go
-*.js linguist-language=go
-*.html linguist-language=go
