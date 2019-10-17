@@ -1,6 +1,6 @@
 # Caller ID On Screen
 
-## An Golang application for telephone caller ID display on screen. Implemented in Raspberry Pi, a low-cost and low-power single board computer.
+## A Golang application for telephone caller ID display on screen. Implemented in Raspberry Pi, a low-cost and low-power single board computer.
 
 This application was created for my customer support team to response quickly and efficiently for incoming service calls.
 
